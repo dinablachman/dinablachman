@@ -16,6 +16,6 @@ _stack: Node.js, Cheerio, Wayback Machine API_
 **personal blog** → just for fun!
 _stack: pure HTML, CSS, vanilla JS_
 
-🧃 outside of code: i love journaling, making edits, and going on nyc coffee crawls 
+🧃 outside of code: i love journaling, making edits, and going on nyc coffee crawls   
 📬 reach me: db3654@barnard.edu  
 😄 pronouns: she/her  
