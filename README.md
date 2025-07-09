@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @dinablachman
-- 👀 I’m interested in learning implementations of artificial intelligence in various fields, such as social media, sociology, and economics.
-- 🌱 I’m currently learning Django REST framework, PostgreSQL, and some frontend stuff for my website!
-- 💞️ I’m looking to collaborate on projects which work with the OpenAI API.  
-- 📫 You can reach me by db3654@barnard.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact.. I have 40 stitches!
+👋 hi, i’m dina (@dinablachman) — studying cs + philosophy at barnard  
+🧠 i care about thoughtful + creative tech: human–AI collaboration, alignment, legal/ethical AI  
+🔍 current work: fine-tuning an LLM to detect prosecutorial misconduct under Prof. Muresan (SRI 2025)  
 
-<!---
-dinablachman/dinablachman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ this summer, i'm building:
+
+**whensday** → a tool that scans your texts/emails for intent (e.g. “i’ll do it tmr”) and auto-adds tasks to Google Calendar. all client-side, no data ever stored or shared  
+_stack: Python (spaCy, regex), Google Calendar API, Flask_
+
+**giffuse** → a browser tool to stitch Tumblr gifs + TikTok audio into mp4s — like iMovie for nostalgic fan edits  
+_stack: React, TypeScript, ffmpeg.wasm, Tailwind_
+
+**ghostfeed** → a Wayback Machine-powered site that 'revives' suspended/deleted Twitter accounts using archived snapshots  
+_stack: Node.js, Cheerio, Wayback Machine API_
+
+**personal blog** → just for fun!
+_stack: pure HTML, CSS, vanilla JS_
+
+🧃 outside of code: i love journaling, making edits, and going on nyc coffee crawls
+💡 always down to chat about ai ethics, weird UI/UX, or personal operating systems  
+📬 reach me: db3654@barnard.edu  
+😄 pronouns: she/her  
