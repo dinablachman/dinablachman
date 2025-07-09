@@ -13,7 +13,7 @@ _stack: React, TypeScript, ffmpeg.wasm, Tailwind_
 **ghostfeed** → a Wayback Machine-powered site that 'revives' suspended/deleted Twitter accounts using archived snapshots  
 _stack: Node.js, Cheerio, Wayback Machine API_
 
-**personal blog** → just for fun!
+**personal blog** → just for fun!  
 _stack: pure HTML, CSS, vanilla JS_
 
 🧃 outside of code: i love journaling, making edits, and going on nyc coffee crawls   
