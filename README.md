@@ -4,9 +4,6 @@
 
 🛠️ this summer, i'm building:
 
-**whensday** → a tool that scans your texts/emails for intent (e.g. “i’ll do it tmr”) and auto-adds tasks to Google Calendar. all client-side, no data ever stored or shared  
-_stack: Python (spaCy, regex), Google Calendar API, Flask_
-
 **giffuse** → a browser tool to stitch Tumblr gifs + TikTok audio into mp4s — like iMovie for nostalgic fan edits  
 _stack: React, TypeScript, ffmpeg.wasm, Tailwind_
 
@@ -15,6 +12,9 @@ _stack: Node.js, Cheerio, Wayback Machine API_
 
 **personal blog** → just for fun!  
 _stack: pure HTML, CSS, vanilla JS_
+
+**does this person exist?** → a fast-paced guessing game to spot real vs AI-generated faces ([play it here](https://dinablachman.github.io/realorfake))  
+stack: HTML, CSS, vanilla JS
 
 🧃 outside of code: i love journaling, making edits, and going on nyc coffee crawls   
 📬 reach me: db3654@barnard.edu  
