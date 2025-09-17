@@ -2,7 +2,7 @@
 🧠 i care about thoughtful + creative tech: human–AI collaboration, alignment, legal/ethical AI  
 🔍 current work: fine-tuning an LLM to detect prosecutorial misconduct under Prof. Muresan (SRI 2025)  
 
-🛠️ this summer, i'm building:
+🛠️ i'm building:
 
 **giffuse** → a browser tool to stitch Tumblr gifs + TikTok audio into mp4s — like iMovie for nostalgic fan edits  
 _stack: React, TypeScript, ffmpeg.wasm, Tailwind_
